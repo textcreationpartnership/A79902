@@ -1,0 +1,839 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canterburie march beaten up, on the day of King Charles his inauguration March the xxvii. 1648. By some of His Maiesties little, but loyall subjects and servants, under the conduct of Signior Ilermo di Manta. Our colours, as the crosse will shew, are English ... / Ilermo di Manta philanax oenopola grand majestre de la rose.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79902</idno>
+            <idno type="STC">Wing C455</idno>
+            <idno type="STC">Thomason E444_4</idno>
+            <idno type="STC">ESTC R204758</idno>
+            <idno type="STC">ESTC R204759</idno>
+            <idno type="EEBO-CITATION">99864221</idno>
+            <idno type="PROQUEST">99864221</idno>
+            <idno type="VID">116445</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79902)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116445)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E444[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Canterburie march beaten up, on the day of King Charles his inauguration March the xxvii. 1648. By some of His Maiesties little, but loyall subjects and servants, under the conduct of Signior Ilermo di Manta. Our colours, as the crosse will shew, are English ... / Ilermo di Manta philanax oenopola grand majestre de la rose.</title>
+               </titleStmt>
+               <extent>[16] p. : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>The first leaf bears on verso a woodcut of a flag with verses in Greek and Latin below.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "May 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:116445:1"/>
+            <p>
+               <figure>
+                  <head>ἔις Κοί<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ανος ἔςω ἔις Βασιλεὺς.</head>
+                  <figDesc>depiction of flag</figDesc>
+               </figure>
+            </p>
+            <l>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</l>
+            <l>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ut Sol unus in Axe Poli.</l>
+            <l>Sunt qui plures eſſe volunt, ſunt qui quo<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> nullum;</l>
+            <l>Fax hominum haec praeceps quò maleſana ruit!</l>
+            <l>Vult alius Reges ex aequo ſcilicet omnes;</l>
+            <l>Haec Paritas ſecum <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e perîcla trahit.</l>
+            <l>Nec plures ſunto, nec nullus ſunto, nec ommes;</l>
+            <l>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, tantùm Angligenis eſto <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </l>
+            <l>Unus erat noſtris quondam majoribus; unus</l>
+            <l>Eſto ſimul nobis; pluribus h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ud opus eſt.</l>
+            <l>Dum te fata ſinunt, tu ſolus, Carole, Regna;</l>
+            <l>Pòſt, tua Progenies Sceptra Britanna regas.</l>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:116445:1" rendition="simple:additions"/>
+            <p>
+               <hi>CANTERBVRIE MARCH Beaten up, on the day of KING CHARLES HIS INAVGVRATION</hi> March <hi>the xxvii. 1648.</hi>
+            </p>
+            <p>
+               <hi>By ſome of His MAIESTIES little, but Loyall Subjects and Servants, under the Conduct of</hi> Signior Ilermo di Manta.</p>
+            <q>
+               <lg>
+                  <l>Our Colours, as the Croſſe will ſhew,</l>
+                  <l>Are Engliſh; and becauſe but few</l>
+                  <l>Conceive the Motto; for their eaſe,</l>
+                  <l>I'le thus explaine it, if they pleaſe.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>ONE LORD, ONE KING:</hi> in Greek 'tis writ,</l>
+                  <l>If any aske the cauſe of it;</l>
+                  <l>Know 'tis as 'twere that Golden-Fleece,</l>
+                  <l>Which ſometime <hi>Iaſon</hi> fetcht from <hi>Greece.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>I'tis here th' <hi>Inauguration</hi> day</l>
+                  <l>Diſplay'd; to cloath in Rich Array</l>
+                  <l>King <hi>CHARLES;</hi> who though yet in distreſse,</l>
+                  <l>Shall have, we hope, e're long redreſſe.</l>
+               </lg>
+            </q>
+            <p>
+               <hi>Ilermo di Manta Philanax Oenopola Grand Majeſtre de la Roſe.</hi>
+            </p>
+            <p>
+               <hi>Printed in the Yeare, 1648.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:116445:2"/>
+            <pb facs="tcp:116445:2"/>
+            <head>Canterburie March.</head>
+            <opener>
+               <salute>Fellow Souldiers;</salute>
+            </opener>
+            <lg>
+               <l>Y'Are marching forth into the Field,</l>
+               <l>To try how each his Armes can weild,</l>
+               <l>His Sword, his Piſtoll and halfe Pike,</l>
+               <l>Mark well your Drum, how it doth ſtrike;</l>
+               <l>And that each Poſture may be neate,</l>
+               <l>Know when t'advance, when to retreate.</l>
+            </lg>
+            <lg>
+               <l>Y'are going now but to a ſport,</l>
+               <l>Yet, think it were to take a Fort,</l>
+               <l>Or fight an Enemy hand to hand,</l>
+               <l>As long as ſide either canſtand;</l>
+               <l>If e're it come to ſuch a puſh,</l>
+               <l>Feare not, but on with courage ruſh.</l>
+            </lg>
+            <lg>
+               <l>Creepe in a Hedge! fly to a Tree!</l>
+               <l>Lurk in a Pit! this muſt not be;</l>
+               <l>A Souldier truly valiant</l>
+               <l>Will (like a Lyon ſalliant)</l>
+               <l>Beare all before him, rather die</l>
+               <l>Than offer once away to fly.</l>
+            </lg>
+            <lg>
+               <l>Honour is all a Souldiers ayme,</l>
+               <l>And whoſoe're to that layes claime,</l>
+               <l>Muſt not outbrave't with Bombaſt words,</l>
+               <l>But through the midſt of thickeſt ſwords,</l>
+               <l>Put on, and farther ſtill advance,</l>
+               <l>As did onr Engliſh Kings in <hi>France.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But, I have done; now of the Day,</l>
+               <l>Heare what your Leaders have to ſay;</l>
+               <l>Order your ſelves, and ſilence keep,</l>
+               <l>Be whiſt, as when you ſweetly ſleep;</l>
+               <l>Attend your charge, be ſure yee do,</l>
+               <l>Elſe here's the Marſhall, up ye go.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:116445:3"/>
+               <l>You'le ſtride the woodden Horſe at leaſt</l>
+               <l>And that's a villainous ſharp-back Beaſt;</l>
+               <l>The hardeſt Hackney in this Towne</l>
+               <l>(Though one ſhould ride him up and down</l>
+               <l>Without a Saddle) would not more</l>
+               <l>Torment your Twiſt; beware therefore.</l>
+            </lg>
+            <lg>
+               <l>Beſides, there is the Gantlope Race,</l>
+               <l>Where he ſpeeds beſt that runs apace;</l>
+               <l>Yet be he neer ſo ſwift of foote</l>
+               <l>Hee'le ſmart for't when he comes unto't:</l>
+               <l>Be ſilent then, full well you'le ſpeed,</l>
+               <l>If of your charge you take but heed.</l>
+            </lg>
+            <bibl>
+               <hi>Deering.</hi>
+            </bibl>
+            <lg>
+               <l>1. Come, Noble Sparks, I hope y'are ſquare,</l>
+               <l>Keep Rank and File from Van toth Reare;</l>
+               <l>March bravely on, and let's diſplay</l>
+               <l>Our Colours, to ſet forth this day,</l>
+               <l>In which King CHARLES our Soveraigne</l>
+               <l>Amongſt us firſt began his Reigne.</l>
+            </lg>
+            <bibl>
+               <hi>Yate.</hi>
+            </bibl>
+            <lg>
+               <l>2. It's fit we ſhould; for though of late</l>
+               <l>(Through Englands moſt unhappy Fate)</l>
+               <l>It hath, as 'twere, been ſmothered,</l>
+               <l>And in oblivion buryed;</l>
+               <l>Yet wee le revive it, what we may,</l>
+               <l>And give due honour to the day.</l>
+            </lg>
+            <bibl>
+               <hi>Stocker.</hi>
+            </bibl>
+            <lg>
+               <l>3. In honouring it, we honour give</l>
+               <l>To him, by whom our Lawes do live:</l>
+               <l>King CHARLES <hi>I</hi> mean, who though as yet</l>
+               <l>He's force't as one forlorne to ſit</l>
+               <l>In ſolitude, yet certainly</l>
+               <l>E're long he'le have good company.</l>
+            </lg>
+            <bibl>
+               <hi>Frognall.</hi>
+            </bibl>
+            <lg>
+               <l>4. A Sunſhine day hath oft appear'd</l>
+               <l>After the blackeſt Night, and clear'd</l>
+               <l>The cloudy Sky: a ſtorme at Sea</l>
+               <l>May laſt a while, but 'twill allay,</l>
+               <l>When <hi>Neptune</hi> with his Trident Mace</l>
+               <l>Commands each Wind into his place.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:116445:3"/>
+               <l>1. Time brings things about, which we</l>
+               <l>Could hardly once beleeve would be;</l>
+               <l>Let man plot what he pleaſe, there is</l>
+               <l>A Power, that over-ruleth his;</l>
+               <l>This either makes or marres the end,</l>
+               <l>What ever mortall men intend.</l>
+            </lg>
+            <lg>
+               <l>2. The world (we uſe to ſay) runs round;</l>
+               <l>The Heavens indeed do, but the ground</l>
+               <l>Stands fixt on its ſtability,</l>
+               <l>And yet from mutability</l>
+               <l>Not fre'd; we ring the changes here,</l>
+               <l>From day to day, from yeare to yeare.</l>
+            </lg>
+            <lg>
+               <l>3. It fares with man, as with a Bowle.</l>
+               <l>Which on the Green when it doth role</l>
+               <l>Turns up and down; or as a Ball</l>
+               <l>At Tennis, ſtruck from wall to wall;</l>
+               <l>Say't fly ith' hazzard; make no doubt</l>
+               <l>But that at length it ſhall come out.</l>
+            </lg>
+            <lg>
+               <l>4. The Sun ſets darkiſh in the <hi>Weſt,</hi>
+               </l>
+               <l>Yet doth next morning in the <hi>Eaſt</hi>
+               </l>
+               <l>Ariſe moſt glorious, while its Face</l>
+               <l>All Fogges and Miſts away doth chaſe;</l>
+               <l>Such heavy Meteors have not force</l>
+               <l>To out his light, or ſtop his courſe.</l>
+            </lg>
+            <lg>
+               <l>1. Come then, Comrades, cheer up with me,</l>
+               <l>We hope good dayes againe to ſee;</l>
+               <l>Dayes of Plenty and of Peace,</l>
+               <l>Dayes of Ioy, and Trades increaſe,</l>
+               <l>Dayes of mutuall Amity,</l>
+               <l>And Truth without Hypocriſie.</l>
+            </lg>
+            <lg>
+               <l>2. Were <hi>Phoebus</hi> once but in his Spheare,</l>
+               <l>And had his wonted motion there,</l>
+               <l>The work were done; then ſtraite thoſe dayes</l>
+               <l>Would crown our Cypreſſe browes with Bayes;</l>
+               <l>And after many a deading day</l>
+               <l>Make us as freſh as Flowers in <hi>May.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>3. O how mine eyes would joy to ſee't!</l>
+               <l>
+                  <pb facs="tcp:116445:4"/>My heart would leap, my legs and ſeet</l>
+               <l>ſhould nimbly trip it o're the Plaine,</l>
+               <l>With many an honeſt-hearted Swaine;</l>
+               <l>Chaunting out loud with frolick Mirth</l>
+               <l>King <hi>CHARLES</hi> his new and ſecond Birth.</l>
+            </lg>
+            <lg>
+               <l>4. Some ſawcy Tongues are over-glib,</l>
+               <l>Sorting with Princes <hi>Tom</hi> and <hi>Tib;</hi>
+               </l>
+               <l>They cry they're Kings and Queens each one,</l>
+               <l>From Madam, to the meaneſt <hi>Joane;</hi>
+               </l>
+               <l>They would be ſo in very deed,</l>
+               <l>But, I'ie not bid their Plough God ſpeed.</l>
+            </lg>
+            <lg>
+               <l>1. What? Princes all? Why this were brave,</l>
+               <l>Then every Maſter and his Knave</l>
+               <l>Should ſhare alike: <hi>Jack Straw</hi> did ſay,</l>
+               <l>As many <hi>Jacks</hi> do at this day;</l>
+               <l>
+                  <hi>When</hi> Adam <hi>digged and</hi> Evah <hi>ſpan,</hi>
+               </l>
+               <l>
+                  <hi>Who was then a Gentleman?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>2. Why how now Levellers? Is it fit</l>
+               <l>That Peſants cheeke by Iowle ſhould ſit</l>
+               <l>With Princes? What foule <hi>Ataxie</hi>
+               </l>
+               <l>Would you bring in with <hi>Anarchie?</hi>
+               </l>
+               <l>The labouring man ought uſe his Spade,</l>
+               <l>Kings Scepters were for Soveraigns made.</l>
+            </lg>
+            <lg>
+               <l>3. One King, no more: no more at once,</l>
+               <l>Who e're ſayes nay, <hi>I</hi> think his Sconce</l>
+               <l>Runs Wild-Gooſe-chaſe; he may ſeem wiſe,</l>
+               <l>But ſurely he is otherwiſe;</l>
+               <l>Let him ſeem ſage, yet (ſooth to ſaine)</l>
+               <l>Hee's but an Aſſe, and Foole in graine.</l>
+            </lg>
+            <lg>
+               <l>A King muſt be a King alone,</l>
+               <l>None ſhould be his campanion,</l>
+               <l>But much leſſe his Superiour,</l>
+               <l>That makes him an Inferiour;</l>
+               <l>And ſure hee'le be of ſmall account</l>
+               <l>Vnleſſe he be Lord Paramount.</l>
+            </lg>
+            <lg>
+               <l>1. To give a Prince of Soveraignty</l>
+               <l>Check-mate with upſtart Parity</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:116445:4"/>
+               <l>4. Is ill beſeeming; Kings are they</l>
+               <l>That ought to rule; whom to obey</l>
+               <l>Subjects are bound, in all that tends</l>
+               <l>To Vertuous and Religious ends.</l>
+            </lg>
+            <lg>
+               <l>1. Put caſe they ſhould command what's ill,</l>
+               <l>(While Reaſon is o're-borne by Will)</l>
+               <l>We muſt ſubmit; yet how? to do</l>
+               <l>The thing that they command us? No;</l>
+               <l>But rather beare with patience</l>
+               <l>Even Death, than offer violence.</l>
+            </lg>
+            <lg>
+               <l>3. They are not to be withſtood by force,</l>
+               <l>Subjects ought take another courſe,</l>
+               <l>That's better far; a milder way;</l>
+               <l>It is, to Counſell and to Pray;</l>
+               <l>Such means with them will more prevaile,</l>
+               <l>Than to oppoſe, defame and raile.</l>
+            </lg>
+            <lg>
+               <l>4. Touch not the King in any wiſe,</l>
+               <l>That may to his diſhonour riſe;</l>
+               <l>Not in thy thought, nor word, nor deed,</l>
+               <l>For never well did any ſpeed,</l>
+               <l>That durſt adventure ſuch a thing</l>
+               <l>Againſt their Soveraign Lord the King.</l>
+            </lg>
+            <lg>
+               <l>1. Kings be Supream, and Subjects are</l>
+               <l>As to the Sun each leſſer Star;</l>
+               <l>Of them, ne'r ſince the world begun,</l>
+               <l>Any one ſtriv'd to be the Sun;</l>
+               <l>No River e're did enterpriſe</l>
+               <l>The Ocean Sea to equalize.</l>
+            </lg>
+            <lg>
+               <l>2. Dales riſe not up, high Hills to noſe,</l>
+               <l>But quietly do below repoſe;</l>
+               <l>The <hi>Lapwing</hi> muſt not partner be</l>
+               <l>With th <hi>Eagle</hi> in his Soveraignty:</l>
+               <l>That builds oth' ground, but this above,</l>
+               <l>And's call'd cheife Armiget to <hi>Iove.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>3. Each Element moveth in its place;</l>
+               <l>To Nature 'tis a foule diſgrace,</l>
+               <l>
+                  <pb facs="tcp:116445:5"/>When her well ordered Nation</l>
+               <l>Is turn'd into confuſion;</l>
+               <l>All is as't ſhould be, when all's right,</l>
+               <l>Let day be day, let night be night.</l>
+            </lg>
+            <lg>
+               <l>4. One King, no more, our Colours cry,</l>
+               <l>And with them we will live or dye;</l>
+               <l>We are but <hi>Tyroes;</hi> yet from <hi>Greece</hi>
+               </l>
+               <l>We fetcht of late this <hi>Golden-Fleece,</hi>
+               </l>
+               <l>To'adorne King CHARLES with rich Array,</l>
+               <l>On this INAUGURATION day.</l>
+            </lg>
+            <lg>
+               <l>1. Some ſay hee's poor, but we ſay nay,</l>
+               <l>It matters not what others ſay;</l>
+               <l>Can he be poore that's rich in Friends?</l>
+               <l>Why? <hi>Codrus,</hi> but with his Coblers ends,</l>
+               <l>(If well <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elov'd) hath riches more</l>
+               <l>Than <hi>Craeſus</hi> had with all his ſtore.</l>
+            </lg>
+            <lg>
+               <l>2 CHARLES is not poor then, being belov'd</l>
+               <l>Of Loyall Friends: this will be prov'd,</l>
+               <l>When that day comes, which is not yet,</l>
+               <l>We muſt with patience wait for ir,</l>
+               <l>Himſelfe doth, being aſſur'd that he</l>
+               <l>Shall be at length, what he ſhould be.</l>
+            </lg>
+            <lg>
+               <l>3. A Monarch ſtill amongſt us here,</l>
+               <l>As now this foure and twenty'th year</l>
+               <l>He hath been: yet, not ſuch as now</l>
+               <l>Vnder a Cloud, I know not how:</l>
+               <l>The Cloud, I hope, will break at length,</l>
+               <l>And <hi>Sol</hi> will then ſhine in his ſtrength.</l>
+            </lg>
+            <lg>
+               <l>4. He avens grant it, maugre all the ſpight</l>
+               <l>Of Envy, Hatred, Malice, Might:</l>
+               <l>I wiſh theſe twenty foure yeares Raigne</l>
+               <l>May be redoubled: but in vaine</l>
+               <l>This vote may ſeem, for ſuch a date</l>
+               <l>Of life did long ſince terminate.</l>
+            </lg>
+            <lg>
+               <l>2, Well howſo're, we wiſh long life</l>
+               <l>(Devoyd of farther jars and ſtrife)</l>
+               <l>
+                  <pb facs="tcp:116445:5"/>To CHARLES our King; The Parliament</l>
+               <l>Deſires it too: but ſome are bent</l>
+               <l>Another way, nor doe they ſpare</l>
+               <l>To run point black againſt the haire.</l>
+            </lg>
+            <lg>
+               <l>2. They are Sactaries and Schiſmaticks,</l>
+               <l>State-Troublers and Church Hereticks,</l>
+               <l>Browniſts, and Antinomians,</l>
+               <l>Ieſuites and Amſterdamians;</l>
+               <l>If any ſuch be in this place,</l>
+               <l>I bid defiance to his face.</l>
+            </lg>
+            <lg>
+               <l>3. Theſe are the ſeeming Saints, that make</l>
+               <l>A ſhew of Holyneſſe; doe but take</l>
+               <l>Their Vizard off, and you ſhall ſee</l>
+               <l>They ſcarce have common honeſty;</l>
+               <l>The Divell by a cunning ſlight</l>
+               <l>Will ſeeme an Angell even of Light.</l>
+            </lg>
+            <lg>
+               <l>4. Hence Viprous Brood, what make you heere,</l>
+               <l>Who thus the Kingdomes Bowels teare?</l>
+               <l>Were you but gone, we'd ſoon agree</l>
+               <l>With mutuall Peace and Vnity;</l>
+               <l>King <hi>Charles</hi> ſhould ſit upon his Throne,</l>
+               <l>And none ſhould Rule, but he alone.</l>
+            </lg>
+            <lg>
+               <l>1. One People, and one only. King,</l>
+               <l>Obſerve this even in every thing;</l>
+               <l>The Bees, the better for to thrive,</l>
+               <l>Will but one Maiſter in one Hive:</l>
+               <l>The Heavens have but one onely Sun,</l>
+               <l>Nor e're had ſince the world begun.</l>
+            </lg>
+            <lg>
+               <l>2. The Eagle is the King of Birds,</l>
+               <l>The Lyon of the Beaſts and Herds</l>
+               <l>That in the Forreſt have their chaſe,</l>
+               <l>And each one keeps his ſeverall place;</l>
+               <l>The very Ant, that little thing,</l>
+               <l>Is not without its petty King.</l>
+            </lg>
+            <lg>
+               <l>3. All theſe acknowledge ſëoalty,</l>
+               <l>And do performe it faithfully</l>
+               <l>
+                  <pb facs="tcp:116445:6"/>To him that is their Head and Guide,</l>
+               <l>Nor do they ever out of Pride,</l>
+               <l>Riſe or reſiſt; content are they</l>
+               <l>To let him rule, and doe obey.</l>
+            </lg>
+            <lg>
+               <l>Its ſtrange (ô ſtrange!) that any then</l>
+               <l>Should live among the Sons of men,</l>
+               <l>Who dare by force and treachery</l>
+               <l>Attempt to beate down Monarchy;</l>
+               <l>Yet ſuch there be, more reaſonleſſe</l>
+               <l>Than are the Beaſts 'ith Wilderneſſe.</l>
+            </lg>
+            <lg>
+               <l>Had they, I think, but common ſenſe</l>
+               <l>To help their weake Intelligence,</l>
+               <l>They would be wiſer than they are,</l>
+               <l>And ſtop, before they run too far.</l>
+               <l>Be other States, what they liſt be,</l>
+               <l>Great Britan's now a Monarchy.</l>
+            </lg>
+            <lg>
+               <l>2. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, our Enſignes word,</l>
+               <l>Is, let there be one only Lord;</l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is, let there be</l>
+               <l>One King ſupreame in Majeſty,</l>
+               <l>The Motto's very faire I hope,</l>
+               <l>Who ere ſayes nay, beware the Rope.</l>
+            </lg>
+            <lg>
+               <l>3. One only King we conſtantly</l>
+               <l>(So long as breath ſhall laſt) will cry,</l>
+               <l>King CHARLES is He, yea He alone,</l>
+               <l>Vntill by death he quit his throne</l>
+               <l>(A faire death be't) unto his Seed</l>
+               <l>That in their Right ſhall him ſucceed.</l>
+            </lg>
+            <lg>
+               <l>4. March on brave blades, ſtand to your Armes,</l>
+               <l>Fear neither force, nor Magick charmes,</l>
+               <l>Stand for a King, and but for one,</l>
+               <l>Be not for many, nor for none:</l>
+               <l>Then are you truly right and ſquare,</l>
+               <l>Though ſuch of late were very rare.</l>
+            </lg>
+            <lg>
+               <l>1. They were indeed, yea very thin,</l>
+               <l>But now me thinks they do begin</l>
+               <l>
+                  <pb facs="tcp:116445:6"/>To wheele about; inſooth they muſt,</l>
+               <l>For, elſe they know whereto totruſt;</l>
+               <l>Even to their heeles, yet divers ſay,</l>
+               <l>The'le rather turne, than run away,</l>
+            </lg>
+            <lg>
+               <l>2. I think ſo to; They'le never ſtraine</l>
+               <l>To turne, and turne agen for gaine;</l>
+               <l>Theſe whirligiggs were all of late</l>
+               <l>(I marry were they) for the State;</l>
+               <l>The Publick-good ſounds well to'th eare,</l>
+               <l>But, do'ſt thou think that was their care?</l>
+            </lg>
+            <lg>
+               <l>3. Yes, if they count themſelves the State,</l>
+               <l>For many a cunning-crafty Mate,</l>
+               <l>And ſimpering-ſoothing Separatiſt</l>
+               <l>(Let be his Sect what ere you liſt)</l>
+               <l>Within a while hath gotten more,</l>
+               <l>Than e're in all his life before.</l>
+            </lg>
+            <lg>
+               <l>4. Had theſe but loved the State indeed,</l>
+               <l>As they pretended, better ſpeed</l>
+               <l>The Common-wealth had found; but now</l>
+               <l>(As 't were a waggon in a flough)</l>
+               <l>It's foundred; Let us, might and maine,</l>
+               <l>Labour to get it out againe.</l>
+            </lg>
+            <lg>
+               <l>1. It's deeply plunged, it 'ith mire and clay,</l>
+               <l>And like is longer there to ſtay,</l>
+               <l>Vnleſſe the Maſter Waggoner ſtand</l>
+               <l>And ſet thereto his helping hand;</l>
+               <l>Then it ſhall run on wheeles againe</l>
+               <l>Beeing kept up right by Char-le-main.</l>
+            </lg>
+            <lg>
+               <l>2. Me thinks I ſee't begin to riſe,</l>
+               <l>Fill me a cup of upſy-frize.</l>
+               <l>To joy our Friends: ſuch Friends I meane,</l>
+               <l>As doe unto the right ſide leane;</l>
+               <l>Who being Loyall to their King,</l>
+               <l>Ne're wrongd the State in any thing.</l>
+            </lg>
+            <lg>
+               <l>3. Theſe are the cordiall Royaliſts</l>
+               <l>That love (not as the Familiſts)</l>
+               <l>
+                  <pb facs="tcp:116445:7"/>Their King, and Country, Church, and State,</l>
+               <l>Nor doe they ſeek to animate</l>
+               <l>Each againſt other furiouſly,</l>
+               <l>But ſtudy peace and unity.</l>
+            </lg>
+            <lg>
+               <l>This unity is hell'd by none,</l>
+               <l>That have more Ruling-Heads than one;</l>
+               <l>The manyes multiplicity</l>
+               <l>Produceth ſuch variety</l>
+               <l>Of judgements, that they know not where</l>
+               <l>To ſet their ſtaffe up, here or there.</l>
+            </lg>
+            <lg>
+               <l>1. No King at all, ſome faine would have,</l>
+               <l>And ſome would all, even every Knave;</l>
+               <l>Theſe mad-head, Hare-braines have ſuch fits,</l>
+               <l>They run themſelves quite out their wits;</l>
+               <l>Let them goe on, and run their fill,</l>
+               <l>For nought they'le doe but what they will.</l>
+            </lg>
+            <lg>
+               <l>2. <hi>England,</hi> ſearch all Antiquity,</l>
+               <l>Hath thrived beſt under Monarchy:</l>
+               <l>Our Anceſtors approv'd of it,</l>
+               <l>And why ſhould any queſtion it?</l>
+               <l>Oh I-theſe are wiſer, and doe ſee</l>
+               <l>More cleerly than their Anceſtry.</l>
+            </lg>
+            <lg>
+               <l>3. There are in th' <hi>Indies,</hi> Travellers ſay,</l>
+               <l>Some Monſters calld <hi>Acephaloi:</hi>
+               </l>
+               <l>All breech and body, but no Head,</l>
+               <l>If we prove ſuch, we'are ill beſtead:</l>
+               <l>Yet many a woodcock, tooth and naile,</l>
+               <l>Labours to do't, could he prevaile.</l>
+            </lg>
+            <lg>
+               <l>4. It's dangerous cutting through the Maine,</l>
+               <l>(Say, but from <hi>England</hi> into <hi>Spaine,</hi>
+               </l>
+               <l>Nay leſſe, not many words to ſpend,</l>
+               <l>Be't but from <hi>London</hi> to <hi>Graaveſand</hi>)</l>
+               <l>Without a Pilot: Let him ſayle,</l>
+               <l>It's ten to one, if ſafe we ſayle.</l>
+            </lg>
+            <lg>
+               <l>1. Each Kingdome is a ſhip, and it</l>
+               <l>Ought 't have a Pilot that is <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </l>
+               <pb facs="tcp:116445:7"/>
+               <l>None can be more than is a King</l>
+               <l>Experienced in every thing,</l>
+               <l>That to his Kingſhip doth belong,</l>
+               <l>Right to maintain, and puniſh wrong.</l>
+            </lg>
+            <lg>
+               <l>King <hi>Charles</hi> is ſuch, then happy we,</l>
+               <l>Could we our happineſſe but ſee-</l>
+               <l>But ah, the lately new-ſprung Light</l>
+               <l>Hath put out many a Weaklings ſight;</l>
+               <l>So operative is its excellence,</l>
+               <l>That it doth quite corrupt the ſenſe.</l>
+            </lg>
+            <lg>
+               <l>They call 't a Light, but yet indeed</l>
+               <l>It rather heat, marke with what ſpeed</l>
+               <l>The Zealots in their fiery fit</l>
+               <l>Run headlong, being inflam'd with it.</l>
+               <l>Call't what they will, 't hath prov'd more dire</l>
+               <l>Than ever did Saint <hi>Anthonies</hi> fire.</l>
+            </lg>
+            <lg>
+               <l>This Light like <hi>Ignis fatuus,</hi>
+               </l>
+               <l>Or <hi>Iack</hi> with a wiſpe hath led us</l>
+               <l>Quite from our Thoame, about let's tacke,</l>
+               <l>And then away to the Fiels wee'l packe;</l>
+               <l>Packe? March, I would ſay, for that word</l>
+               <l>Becomes not him, that wears a Sword.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Vive le Roy,</hi> long live King <hi>Charles,</hi>
+               </l>
+               <l>Maugre the ſpight of envious Carles:</l>
+               <l>King of <hi>England, Scotland France,</hi>
+               </l>
+               <l>And <hi>Ireland</hi> too: come, let's advance,</l>
+               <l>All his juſt Titles to maintain,</l>
+               <l>Proclaming him, once and again,</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Defender of the Faith,</hi> o're all</l>
+               <l>Civil and Eccleſiaſtical</l>
+               <l>
+                  <hi>Supreme,</hi> ſubjected unto none</l>
+               <l>That lives in his Dominion:</l>
+               <l>Having a right in every thing,</l>
+               <l>Such as is due to an <hi>Engliſh</hi> King.</l>
+            </lg>
+            <lg>
+               <l>This is his Title, but of late</l>
+               <l>It's almoſt quite worne out of date<g ref="char:punc">▪</g>
+               </l>
+               <pb facs="tcp:116445:8"/>
+               <l>One crieth <hi>Charles,</hi> and lets ſlip King,</l>
+               <l>Whch is a pretty upſtart thing;</l>
+               <l>As if he onely had a name,</l>
+               <l>Without a Kingdom to the ſame.</l>
+            </lg>
+            <lg>
+               <l>The King, cry others; but, <hi>ſans</hi> ours;]</l>
+               <l>Indeed they onely count him yours,</l>
+               <l>Who with a free and loyal heart</l>
+               <l>Do both your ſelves to him impart,</l>
+               <l>And what is yours; To do him good,</l>
+               <l>Not ſparing even your deareſt bloud.</l>
+            </lg>
+            <lg>
+               <l>There is a third ſort (man to blame)</l>
+               <l>That uſe nor King nor <hi>Charles</hi> to name,</l>
+               <l>But onely He, He who is plac't,</l>
+               <l>Here over us; Will this ſtill laſt?</l>
+               <l>I hope it will not; ere't be long,</l>
+               <l>They'l packe, or ſing another ſong.</l>
+            </lg>
+            <lg>
+               <l>Renowned <hi>Charles,</hi> thy ſuffering</l>
+               <l>Being paſt, Thou'lt be a glorious King:</l>
+               <l>Fire purifieth the Gold from droſſe,</l>
+               <l>The way to th'Crown is by the Croſſe;</l>
+               <l>Th'haſt three Crownes now, and time to come</l>
+               <l>Reſerves thy fourth of Martyrdome.</l>
+            </lg>
+            <lg>
+               <l>Come, ſtrike up Drummes, and bravely beat</l>
+               <l>An <hi>Engliſh</hi> March, our <hi>Charles</hi> the Great</l>
+               <l>Shall never fall, whiſe we canſtand,</l>
+               <l>In this, or any other Land:</l>
+               <l>Triumph he, whereſoe're he goes,</l>
+               <l>With honour, over all his Foes.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Vive le Roy, &amp; tous les ſiens,</hi>
+               </l>
+               <l>
+                  <hi>Dieu luy garde, &amp; tous ſet biens.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
